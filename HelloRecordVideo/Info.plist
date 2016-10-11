@@ -34,5 +34,11 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSCameraUsageDescription</key>
+	<string>To record video</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>To save video</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>To record voice</string>
 </dict>
 </plist>
